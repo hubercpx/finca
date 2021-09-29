@@ -4,7 +4,7 @@ Api desarrollada en Nodejs y Cliente Web desarrollado en Angular
 ## Requisitos Mínimos
 - npm ![coverage](https://img.shields.io/npm/v/npm?style=flat-square)
 - Node Js ![coverage](https://img.shields.io/npm/v/node)
-Angular CLI 
+- Angular CLI 
 
 ## Instalación
 ### Api
